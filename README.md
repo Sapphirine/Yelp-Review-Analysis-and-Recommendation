@@ -8,6 +8,7 @@ find explicit industry and user attitude labels by classification algorithms
 and retrieve hidden subtopic labels by LDA clustering
 
 Our code is organized in two directories
+
   BigData:
   
     Offline code to preprocess Yelp dataset and perform experiments on the parsed review text.
