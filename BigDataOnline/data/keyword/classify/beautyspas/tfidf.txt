@@ -1,0 +1,6 @@
+hair
+salon
+cut
+place
+time
+

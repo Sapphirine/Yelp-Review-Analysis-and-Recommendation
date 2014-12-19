@@ -1,0 +1,6 @@
+place
+exhibit
+seat
+venue
+museum
+

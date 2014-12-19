@@ -1,0 +1,6 @@
+store
+place
+bike
+time
+shop
+

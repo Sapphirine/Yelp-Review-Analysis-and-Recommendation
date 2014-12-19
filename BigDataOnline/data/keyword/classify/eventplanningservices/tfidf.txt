@@ -1,0 +1,6 @@
+room
+place
+great
+stay
+hotel
+
