@@ -1,0 +1,10 @@
+restaurants	21092
+nightlife	4495
+shopping	3138
+chinese	1428
+eventplanningservices	1347
+grocery	1309
+artsentertainment	1307
+beautyspas	1261
+automotive	1129
+hotelstravel	820
