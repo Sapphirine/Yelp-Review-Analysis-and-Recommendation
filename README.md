@@ -13,7 +13,7 @@ Our code is organized in two directories
   
     Offline code to preprocess Yelp dataset and perform experiments on the parsed review text.
     
-    Windows Command-line and Unix Shell Scripts are not included in this directory.
+    Windows command-line and Unix shell scripts are not included in this directory.
   
     Also, some data set are not uploaded to Github due to their extremely large sizes.
     
