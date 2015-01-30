@@ -5,9 +5,9 @@ Information Group: Yelp Review Analysis and Recommendation
 
 Extract hidden informaion from raw Yelp review text,
 find explicit industry and user attitude labels by classification algorithms
-and retrieve hidden subtopic labels by LDA clustering
+and retrieve hidden subtopic labels by LDA clustering.
 
-Our code is organized in two directories
+Our code is organized in two directories:
 
 - BigData:
   
@@ -21,7 +21,7 @@ Our code is organized in two directories
   
   - Online code of a review analysis and business recommendation website.
   
-  - The website address is: http://121.42.11.100:8078/BigDataOnline/ (Available before Jan. 20th 2015)
+  - The website address is: http://121.42.11.100:8078/BigDataOnline/ (Available before Jan. 20th 2015).
   
   - When deploying our website, please copy the 'data' and 'edu' subdirectory to the 'bin' directory of Tomcat 7.
   
